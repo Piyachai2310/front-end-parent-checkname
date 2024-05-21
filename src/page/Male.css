@@ -1,0 +1,21 @@
+.searching {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.searching .Input-search {
+    background: transparent;
+}
+
+.background-light-red {
+    background-color: #ffcccc;
+    /* Lighter red */
+    color: black;
+    /* Adjust text color for better readability */
+}
+
+.bg-light-green{
+    background-color: #98eaaa;
+}
